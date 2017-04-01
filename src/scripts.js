@@ -1,3 +1,5 @@
+/*eslint-env browser */
+/*globals DDD*/
 var stage = DDD.canvas(document.body);
 var ctx = stage.ctx;
 var data = [];
